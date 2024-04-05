@@ -31,7 +31,7 @@
 
 ## About
 
-This application serves as a versatile file sharing platform, empowering users to effortlessly upload, download, and delete files with comfort. With a focus on user convenience and security, our platform offers a range of features designed to enhance the file management experience:
+This application serves as a versatile file sharing platform, empowering users to effortlessly upload, download, and delete files with ease. With a focus on user convenience and security, our platform offers a range of features designed to enhance the file management experience:
 
 ### Key Features
 
